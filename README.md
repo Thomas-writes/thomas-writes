@@ -12,7 +12,7 @@ $ current
 digging through gcc/cc1
 ```
 
-### → [Personal Website](thomas.savasten.com)
+### → [Personal Website](https://thomas.savasten.com/)
 
 <br>
 
