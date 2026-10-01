@@ -1,13 +1,13 @@
 # `thomas-writes`
 
-**CS + Mathematics · Compilers · Systems · Embedded**
+**Operating System Design, Computer Systems Architecture, Compilers, Embedded Systems**
 
 ```text
 $ whoami
-Thomas — CS + Math @ KU
+Junior @ KU Studying CS and Mathematics
 
 $ current
-digging through gcc/cc1
+Working on my gcc research. Always building.
 ```
 
 ---
@@ -15,8 +15,6 @@ digging through gcc/cc1
 ## `~/Personal_Website`
 
 ### → [Visit my personal website](YOUR_WEBSITE_URL)
-
-<sub>projects · research · experience · everything else</sub>
 
 ---
 
