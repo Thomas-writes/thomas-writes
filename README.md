@@ -7,7 +7,7 @@ $ whoami
 Junior @ KU Studying CS and Mathematics
 
 $ current
-Working on my gcc research. Always building.
+Building a visual debugger that works with gcc.
 ```
 
 ---
