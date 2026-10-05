@@ -14,7 +14,7 @@ Building a visual debugger that works with gcc.
 
 ## `~/Personal_Website`
 
-### → [Visit my personal website](YOUR_WEBSITE_URL)
+### → [Visit my personal website](https://thomas.savasten.com/)
 
 ---
 
