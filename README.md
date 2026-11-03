@@ -12,7 +12,7 @@ Working with GCC.
 
 ---
 
-## `~/Personal_Website`
+## `~/personal_website`
 
 ### → [Visit my personal website](https://thomas.savasten.com/)
 
