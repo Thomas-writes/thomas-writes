@@ -53,7 +53,4 @@ Working with GCC.
 ---
 
 <div align="center">
-
-<code>compile · debug · understand</code>
-
 </div>
