@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="64" viewBox="0 0 560 64" role="img" aria-labelledby="title desc">
+<title id="title">~/elsewhere</title>
+<desc id="desc">around KU</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}</style>
+<text x="4" y="39" fill="#cdd6f4" font-size="25" font-weight="700" text-anchor="start">~/elsewhere</text>
+<path d="M4 57L556 57" stroke="#313244" stroke-width="1"/>
+<rect x="4" y="56" width="54" height="2" rx="1" fill="#a6e3a1" />
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="388" viewBox="0 0 560 388" role="img" aria-labelledby="title desc">
+<title id="title">Tools I use</title>
+<desc id="desc">languages: C, Python, JavaScript, HTML, CSS; systems: GCC, LLDB, Git, Arduino, Raspberry Pi, Redis, Vultr; numerics: NumPy, SciPy, PyCUTEst</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}</style>
+<rect x="0.5" y="0.5" width="559" height="387" rx="16" fill="#1e1e2e" stroke="#45475a" />
+<rect x="1" y="1" width="558" height="46" rx="15" fill="#181825" />
+<rect x="1" y="30" width="558" height="17" rx="0" fill="#181825" />
+<circle cx="24" cy="24" r="5" fill="#f38ba8"/>
+<circle cx="44" cy="24" r="5" fill="#f9e2af"/>
+<circle cx="64" cy="24" r="5" fill="#a6e3a1"/>
+<text x="89" y="29" fill="#a6adc8" font-size="14" font-weight="400" text-anchor="start">cat ~/toolbox.toml</text>
+<path d="M1 47L559 47" stroke="#313244" stroke-width="1"/>
+<text x="25" y="87" fill="#a6adc8" font-size="16" font-weight="400" text-anchor="start">languages</text>
+<rect x="25" y="101" width="38" height="34" rx="6" fill="#313244" />
+<text x="38" y="124" fill="#cba6f7" font-size="19" font-weight="400" text-anchor="start">C</text>
+<rect x="72" y="101" width="97" height="34" rx="6" fill="#313244" />
+<text x="85" y="124" fill="#cba6f7" font-size="19" font-weight="400" text-anchor="start">Python</text>
+<rect x="178" y="101" width="144" height="34" rx="6" fill="#313244" />
+<text x="191" y="124" fill="#cba6f7" font-size="19" font-weight="400" text-anchor="start">JavaScript</text>
+<rect x="331" y="101" width="73" height="34" rx="6" fill="#313244" />
+<text x="344" y="124" fill="#cba6f7" font-size="19" font-weight="400" text-anchor="start">HTML</text>
+<rect x="413" y="101" width="61" height="34" rx="6" fill="#313244" />
+<text x="426" y="124" fill="#cba6f7" font-size="19" font-weight="400" text-anchor="start">CSS</text>
+<text x="25" y="173" fill="#a6adc8" font-size="16" font-weight="400" text-anchor="start">systems</text>
+<rect x="25" y="187" width="61" height="34" rx="6" fill="#313244" />
+<text x="38" y="210" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">GCC</text>
+<rect x="95" y="187" width="73" height="34" rx="6" fill="#313244" />
+<text x="108" y="210" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">LLDB</text>
+<rect x="177" y="187" width="61" height="34" rx="6" fill="#313244" />
+<text x="190" y="210" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">Git</text>
+<rect x="247" y="187" width="108" height="34" rx="6" fill="#313244" />
+<text x="260" y="210" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">Arduino</text>
+<rect x="364" y="187" width="167" height="34" rx="6" fill="#313244" />
+<text x="377" y="210" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">Raspberry Pi</text>
+<rect x="25" y="233" width="85" height="34" rx="6" fill="#313244" />
+<text x="38" y="256" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">Redis</text>
+<rect x="119" y="233" width="85" height="34" rx="6" fill="#313244" />
+<text x="132" y="256" fill="#a6e3a1" font-size="19" font-weight="400" text-anchor="start">Vultr</text>
+<text x="25" y="305" fill="#a6adc8" font-size="16" font-weight="400" text-anchor="start">numerics</text>
+<rect x="25" y="319" width="85" height="34" rx="6" fill="#313244" />
+<text x="38" y="342" fill="#89b4fa" font-size="19" font-weight="400" text-anchor="start">NumPy</text>
+<rect x="119" y="319" width="85" height="34" rx="6" fill="#313244" />
+<text x="132" y="342" fill="#89b4fa" font-size="19" font-weight="400" text-anchor="start">SciPy</text>
+<rect x="213" y="319" width="120" height="34" rx="6" fill="#313244" />
+<text x="226" y="342" fill="#89b4fa" font-size="19" font-weight="400" text-anchor="start">PyCUTEst</text>
+</svg>

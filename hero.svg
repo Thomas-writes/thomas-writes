@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+<title id="title">Thomas Savasten | CS + Mathematics</title>
+<desc id="desc">A Catppuccin Mocha terminal. CS and mathematics at KU, interested in operating systems, architecture, compilers and embedded systems. Currently working with GCC.</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}.cat-blink{opacity:0;animation:catblink 8s steps(1,end) infinite}@keyframes catblink{0%,92%,97%,100%{opacity:0}93%,96%{opacity:1}}@media(prefers-reduced-motion:reduce){.cat-blink{animation:none}}</style>
+<rect x="0.5" y="0.5" width="999" height="329" rx="16" fill="#1e1e2e" stroke="#45475a" />
+<rect x="1" y="1" width="998" height="46" rx="15" fill="#181825" />
+<rect x="1" y="30" width="998" height="17" rx="0" fill="#181825" />
+<circle cx="24" cy="24" r="5" fill="#f38ba8"/>
+<circle cx="44" cy="24" r="5" fill="#f9e2af"/>
+<circle cx="64" cy="24" r="5" fill="#a6e3a1"/>
+<text x="89" y="29" fill="#a6adc8" font-size="14" font-weight="400" text-anchor="start">~/thomas-writes</text>
+<path d="M1 47L999 47" stroke="#313244" stroke-width="1"/>
+<g transform="translate(44 86) scale(0.78)">
+<rect x="0" y="0" width="224" height="224" rx="22" fill="#11111b" stroke="#45475a" />
+<path d="M-12 36L0 36" stroke="#585b70" stroke-width="3"/>
+<path d="M224 36L236 36" stroke="#585b70" stroke-width="3"/>
+<path d="M36 -12L36 0" stroke="#585b70" stroke-width="3"/>
+<path d="M36 224L36 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 59L0 59" stroke="#585b70" stroke-width="3"/>
+<path d="M224 59L236 59" stroke="#585b70" stroke-width="3"/>
+<path d="M59 -12L59 0" stroke="#585b70" stroke-width="3"/>
+<path d="M59 224L59 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 82L0 82" stroke="#585b70" stroke-width="3"/>
+<path d="M224 82L236 82" stroke="#585b70" stroke-width="3"/>
+<path d="M82 -12L82 0" stroke="#585b70" stroke-width="3"/>
+<path d="M82 224L82 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 105L0 105" stroke="#585b70" stroke-width="3"/>
+<path d="M224 105L236 105" stroke="#585b70" stroke-width="3"/>
+<path d="M105 -12L105 0" stroke="#585b70" stroke-width="3"/>
+<path d="M105 224L105 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 128L0 128" stroke="#585b70" stroke-width="3"/>
+<path d="M224 128L236 128" stroke="#585b70" stroke-width="3"/>
+<path d="M128 -12L128 0" stroke="#585b70" stroke-width="3"/>
+<path d="M128 224L128 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 151L0 151" stroke="#585b70" stroke-width="3"/>
+<path d="M224 151L236 151" stroke="#585b70" stroke-width="3"/>
+<path d="M151 -12L151 0" stroke="#585b70" stroke-width="3"/>
+<path d="M151 224L151 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 174L0 174" stroke="#585b70" stroke-width="3"/>
+<path d="M224 174L236 174" stroke="#585b70" stroke-width="3"/>
+<path d="M174 -12L174 0" stroke="#585b70" stroke-width="3"/>
+<path d="M174 224L174 236" stroke="#585b70" stroke-width="3"/>
+<path d="M-12 197L0 197" stroke="#585b70" stroke-width="3"/>
+<path d="M224 197L236 197" stroke="#585b70" stroke-width="3"/>
+<path d="M197 -12L197 0" stroke="#585b70" stroke-width="3"/>
+<path d="M197 224L197 236" stroke="#585b70" stroke-width="3"/>
+<rect x="14" y="14" width="196" height="196" rx="12" fill="#181825" stroke="#cba6f7" />
+<rect x="62" y="32" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="32" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="42" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="42" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="42" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="42" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="42" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="42" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="52" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="62" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="42" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="172" y="72" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="42" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="172" y="82" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="42" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="172" y="92" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="42" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="172" y="102" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="52" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="162" y="112" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="152" y="122" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="72" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="142" y="132" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="82" y="142" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="92" y="142" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="102" y="142" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="112" y="142" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="122" y="142" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="132" y="142" width="10" height="10" rx="0" fill="#cba6f7" shape-rendering="crispEdges"/>
+<rect x="62" y="82" width="20" height="20" rx="0" fill="#cba6f7" class="cat-blink"/>
+<rect x="142" y="82" width="20" height="20" rx="0" fill="#cba6f7" class="cat-blink"/>
+<rect x="102" y="108" width="20" height="7" rx="1" fill="#fab387" />
+<text x="112" y="186" fill="#b4befe" font-size="13" font-weight="400" text-anchor="middle">TS / 0x54 0x53</text>
+</g>
+<text x="970" y="29" fill="#9399b2" font-size="13" font-weight="400" text-anchor="end">main</text>
+<text x="286" y="120" fill="#cdd6f4" font-size="44" font-weight="700" text-anchor="start">Thomas Savasten</text>
+<text x="288" y="157" fill="#cba6f7" font-size="20" font-weight="400" text-anchor="start">CS + math @ University of Kansas</text>
+<path d="M288 184L954 184" stroke="#313244" stroke-width="1"/>
+<text x="288" y="219" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">compilers / architecture / embedded</text>
+<text x="288" y="251" fill="#89b4fa" font-size="17" font-weight="400" text-anchor="start">currently</text>
+<text x="405" y="251" fill="#cdd6f4" font-size="17" font-weight="400" text-anchor="start">GCC internals + optimization</text>
+<rect x="288" y="279" width="10" height="10" rx="3" fill="#f38ba8" />
+<rect x="303" y="279" width="10" height="10" rx="3" fill="#fab387" />
+<rect x="318" y="279" width="10" height="10" rx="3" fill="#f9e2af" />
+<rect x="333" y="279" width="10" height="10" rx="3" fill="#a6e3a1" />
+<rect x="348" y="279" width="10" height="10" rx="3" fill="#94e2d5" />
+<rect x="363" y="279" width="10" height="10" rx="3" fill="#89b4fa" />
+<rect x="378" y="279" width="10" height="10" rx="3" fill="#cba6f7" />
+<rect x="393" y="279" width="10" height="10" rx="3" fill="#f5c2e7" />
+<rect x="1" y="300" width="998" height="29" rx="15" fill="#181825" />
+<rect x="1" y="300" width="998" height="15" rx="0" fill="#181825" />
+<path d="M1 300H175V329H16Q1 329 1 314Z" fill="#cba6f7"/>
+<text x="16" y="320" fill="#11111b" font-size="13" font-weight="700" text-anchor="start">Thomas-writes</text>
+<text x="202" y="320" fill="#a6adc8" font-size="12" font-weight="400" text-anchor="start">CS + math / class of 2028</text>
+<text x="974" y="320" fill="#a6adc8" font-size="12" font-weight="400" text-anchor="end">catppuccin mocha</text>
+</svg>

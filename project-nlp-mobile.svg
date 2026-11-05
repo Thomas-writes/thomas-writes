@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="332" viewBox="0 0 480 332" role="img" aria-labelledby="title desc">
+<title id="title">Nonlinear programming</title>
+<desc id="desc">Python benchmarks for nonlinear solvers: runtime, convergence, and different starting points. source + benchmark reports</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}</style>
+<g transform="translate(0 20)">
+<rect x="0.5" y="0.5" width="479" height="287" rx="14" fill="#1e1e2e" stroke="#313244" />
+<rect x="0.5" y="26" width="2" height="52" rx="1" fill="#89b4fa" />
+<text x="26" y="37" fill="#89b4fa" font-size="14" font-weight="400" text-anchor="start">optimization</text>
+<rect x="372" y="18" width="84" height="27" rx="6" fill="#181825" stroke="#313244" />
+<text x="414.0" y="36" fill="#89b4fa" font-size="12" font-weight="700" text-anchor="middle">RESEARCH</text>
+<text x="26" y="86" fill="#cdd6f4" font-size="26" font-weight="700" text-anchor="start">Nonlinear programming</text>
+<text x="26" y="126" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">Python benchmarks for nonlinear</text>
+<text x="26" y="154" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">solvers: runtime, convergence,</text>
+<text x="26" y="182" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">and different starting points.</text>
+<text x="26" y="221" fill="#89b4fa" font-size="15" font-weight="400" text-anchor="start">Python / SciPy / PyCUTEst</text>
+<path d="M26 239L454 239" stroke="#313244" stroke-width="1"/>
+<text x="26" y="267" fill="#a6adc8" font-size="14" font-weight="400" text-anchor="start">source + benchmark reports</text>
+<text x="454" y="268" fill="#89b4fa" font-size="21" font-weight="400" text-anchor="end">↗</text>
+</g>
+</svg>

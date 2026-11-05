@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="38" viewBox="0 0 40 38" role="img" aria-labelledby="title desc">
+<title id="title">résumé</title>
+<desc id="desc">résumé</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}</style>
+<rect x="0.5" y="0.5" width="39" height="37" rx="8" fill="#181825" stroke="#45475a" />
+<g stroke="#89b4fa" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M15 10h8l5 5v13H15zM23 10v6h5M18 20h7M18 24h7"/></g>
+</svg>

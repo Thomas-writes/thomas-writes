@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="332" viewBox="0 0 504 332" role="img" aria-labelledby="title desc">
+<title id="title">spot-a-song</title>
+<desc id="desc">I wrote the playlist rendering, helped connect Gemini + Spotify, and worked on playlist export. Best Use of Gemini API / HackKU 2025</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}</style>
+<g transform="translate(12 20)">
+<rect x="0.5" y="0.5" width="479" height="287" rx="14" fill="#1e1e2e" stroke="#313244" />
+<rect x="0.5" y="26" width="2" height="52" rx="1" fill="#fab387" />
+<text x="26" y="37" fill="#fab387" font-size="14" font-weight="400" text-anchor="start">api integration</text>
+<rect x="388" y="18" width="68" height="27" rx="6" fill="#181825" stroke="#313244" />
+<text x="422.0" y="36" fill="#fab387" font-size="12" font-weight="700" text-anchor="middle">WINNER</text>
+<text x="26" y="86" fill="#cdd6f4" font-size="26" font-weight="700" text-anchor="start">spot-a-song</text>
+<text x="26" y="126" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">I wrote the playlist rendering,</text>
+<text x="26" y="154" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">helped connect Gemini + Spotify,</text>
+<text x="26" y="182" fill="#bac2de" font-size="18" font-weight="400" text-anchor="start">and worked on playlist export.</text>
+<text x="26" y="221" fill="#fab387" font-size="15" font-weight="400" text-anchor="start">JavaScript / Gemini / Spotify</text>
+<path d="M26 239L454 239" stroke="#313244" stroke-width="1"/>
+<text x="26" y="267" fill="#a6adc8" font-size="14" font-weight="400" text-anchor="start">Best Use of Gemini API / HackKU 2025</text>
+<text x="454" y="268" fill="#fab387" font-size="21" font-weight="400" text-anchor="end">↗</text>
+</g>
+</svg>

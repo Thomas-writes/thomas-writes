@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="38" viewBox="0 0 124 38" role="img" aria-labelledby="title desc">
+<title id="title">email</title>
+<desc id="desc">email</desc>
+<style>text{font-family:ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',monospace}</style>
+<rect x="0.5" y="0.5" width="123" height="37" rx="8" fill="#181825" stroke="#45475a" />
+<g stroke="#fab387" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="11" y="12" width="20" height="15" rx="2"/><path d="m12 13 9 8 9-8"/></g>
+<text x="40" y="24" fill="#fab387" font-size="13" font-weight="700" text-anchor="start">email</text>
+</svg>
